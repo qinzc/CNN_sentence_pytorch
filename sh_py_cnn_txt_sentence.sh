@@ -1,0 +1,1 @@
+CUDA_VISIABLE_DEVICES=1 python py_cnn_txt_sentence.py
